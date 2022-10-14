@@ -2,7 +2,8 @@
 \textwidth 6.5in
 \textheight 9.in
 \oddsidemargin 0in
-\headheight 0in
+\headheight -1in
+\footskip 1in
 
 \usepackage{exsheets}
 \usepackage{amsmath}
@@ -11,6 +12,7 @@
 \usepackage{amsfonts}
 \usepackage{enumitem}
 \usepackage{pifont}
+\usepackage{mathtools}
 
 
 \begin{document}
@@ -21,7 +23,7 @@ Student Name: Ali Golestani\\
 Student ID: 00000000
 \end{flushleft}
 
-\begin{flushright}\vspace{-15mm}
+\begin{flushright}\vspace{-12mm}
 \includegraphics[height=2cm]{"University Logo".png}
 \end{flushright}
  
@@ -30,9 +32,17 @@ Student ID: 00000000
 Assignment Info
 \end{center}
 
-\rule{\linewidth}{0.1mm}
+\rule{\linewidth}{0.1mm}\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+%%Questions are written inside the question environment
+\begin{question}
+    Your question/exercise goes here.
+\end{question}
 
+%%This is the main environment for adding solutions to exercises/questions.
+\begin{solution}[print] %%remove the term "[print]" if you don't want the solution to be visible in your pdf file.
+    The soluion to your exercise goes here
+\end{solution}
 
 \end{document}

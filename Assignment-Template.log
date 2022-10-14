@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.11)  14 OCT 2022 14:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.11)  14 OCT 2022 17:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -410,37 +410,65 @@ File: upzd.fd 2001/06/04 font definitions for U/pzd.
 LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/upsy.fd
 File: upsy.fd 2001/06/04 font definitions for U/psy.
-))
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 16.
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count322
+\calc@Bcount=\count323
+\calc@Adimen=\dimen267
+\calc@Bdimen=\dimen268
+\calc@Askip=\skip62
+\calc@Bskip=\skip63
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count324
+\calc@Cskip=\skip64
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count325
+\l_MT_multwidth_dim=\dimen269
+\origjot=\skip65
+\l_MT_shortvdotswithinadjustabove_dim=\dimen270
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen271
+\l_MT_above_intertext_sep=\dimen272
+\l_MT_below_intertext_sep=\dimen273
+\l_MT_above_shortintertext_sep=\dimen274
+\l_MT_below_shortintertext_sep=\dimen275
+\xmathstrut@box=\box75
+\xmathstrut@dim=\dimen276
+)
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 18.
  (./Assignment-Template.aux)
 \openout1 = `Assignment-Template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
  (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count322
-\scratchdimen=\dimen267
-\scratchbox=\box75
-\nofMPsegments=\count323
-\nofMParguments=\count324
+\scratchcounter=\count326
+\scratchdimen=\dimen277
+\scratchbox=\box76
+\nofMPsegments=\count327
+\nofMParguments=\count328
 \everyMPshowfont=\toks37
-\MPscratchCnt=\count325
-\MPscratchDim=\dimen268
-\MPnumerator=\count326
-\makeMPintoPDFobject=\count327
+\MPscratchCnt=\count329
+\MPscratchDim=\dimen278
+\MPnumerator=\count330
+\makeMPintoPDFobject=\count331
 \everyMPtoPDFconversion=\toks38
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -457,33 +485,48 @@ File: exsheets_configurations.cfg
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 16.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 18.
 <University Logo.png, id=4, 441.65pt x 448.67625pt>
 File: University Logo.png Graphic file (type png)
 <use University Logo.png>
-Package pdftex.def Info: University Logo.png  used on input line 25.
+Package pdftex.def Info: University Logo.png  used on input line 27.
 (pdftex.def)             Requested size: 56.00806pt x 56.9055pt.
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 33--35
+Overfull \hbox (17.0pt too wide) in paragraph at lines 35--37
 [][] 
  []
 
-[1
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \vbox (72.26999pt too high) has occurred while \output is active []
+
+ [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./University Logo.png>] (./Assignment-Template.aux) ) 
 Here is how much of TeX's memory you used:
- 13978 strings out of 478268
- 295642 string characters out of 5846346
- 553575 words of memory out of 5000000
- 31941 multiletter control sequences out of 15000+600000
- 470970 words of font info for 34 fonts, out of 8000000 for 9000
+ 14627 strings out of 478268
+ 307784 string characters out of 5846346
+ 576502 words of memory out of 5000000
+ 32561 multiletter control sequences out of 15000+600000
+ 475318 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 91i,5n,94p,542b,181s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on Assignment-Template.pdf (1 page, 39629 bytes).
+ 91i,5n,94p,542b,272s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on Assignment-Template.pdf (1 page, 53989 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 14 compressed objects within 1 object stream
+ 29 PDF objects out of 1000 (max. 8388607)
+ 17 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
